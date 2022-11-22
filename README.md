@@ -33,6 +33,6 @@ Bypass MDM activation screen on checkm8 devices tested on iX 15.6 RC
 
 # Credits
 
-[palera1n team](https://github.com/palera1n/ramdisk)
-[verygenericname](https://github.com/verygenericname/SSHRD_Script)
+[palera1n team](https://github.com/palera1n/ramdisk)\
+[verygenericname](https://github.com/verygenericname/SSHRD_Script)\
 [FrankSpierings](https://gist.github.com/FrankSpierings)
